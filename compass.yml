@@ -1,0 +1,16 @@
+name: thaw
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/f6d485bc-9dfe-4614-b898-f9f55c43f10b
+description: An easy to use leptos component library
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/thaw
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
